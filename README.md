@@ -58,3 +58,4 @@ This script automates the process of creating segmented GIFs with captions from 
 
 - [MoviePy](https://github.com/Zulko/moviepy) - Video editing with Python
 - [Whisper](https://github.com/CrowdCurio/whisper) - Automatic speech recognition library
+- [OpenCV](https://opencv.org/) - Computer vision library
